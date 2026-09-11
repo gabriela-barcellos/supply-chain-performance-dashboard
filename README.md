@@ -66,8 +66,25 @@ The analysis highlighted several relevant patterns across the supply chain:
 
 ## Dashboard Preview
 
-The final dashboard screenshots will be added here after the visual design and formatting are completed.
+### Executive Overview
 
+![Executive Overview](images/executive-overview.png)
+
+### Operational Performance
+
+![Operational Performance](images/operational-performance.png)
+
+### Revenue
+
+![Revenue](images/revenue.png)
+
+### Suppliers
+
+![Suppliers](images/suppliers.png)
+
+### Products
+
+![Products](images/products.png)
 ## Project Structure
 
 ```text
